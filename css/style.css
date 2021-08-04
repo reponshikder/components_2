@@ -1,0 +1,22 @@
+.c_prev, .c_next {
+    top: 85%;
+    bottom: 5%;
+    width: 5%;
+}
+
+.c_prev {
+    left: 90%;
+}
+
+.cast_i {
+    right: 80%;
+    bottom: 75%;
+    left: auto;
+    display: block;
+}
+
+.cast_i [data-bs-target] {
+    width: 15px;
+    height: 15px;
+    border-radius: 50% !important;;
+}
